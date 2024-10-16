@@ -42,6 +42,8 @@ This project focuses on analyzing a portfolio of US Treasury bonds, calculating 
 6. **PnL Surface Visualization**:
    - A 3D surface plot visualizes the portfolio's profit and loss under different yield change scenarios, highlighting potential risks and returns across different maturity exposures.
 
+   ![](Figures/pnl.png)
+
 ## Enhancements and Modularization
 
 The project was modularized for clarity and flexibility:
